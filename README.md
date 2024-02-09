@@ -1,1 +1,1 @@
-### Disclaimer: Necessário Apache, PHPMyAdmin e MySQL
+# Disclaimer: Necessário Apache, PHPMyAdmin e MySQL
